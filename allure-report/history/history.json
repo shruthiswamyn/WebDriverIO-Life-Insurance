@@ -1,0 +1,1 @@
+{"1142fa31e827406c4b3690166ed661e5":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"9f39b269b9544e","status":"broken","statusDetails":"Can't call click on element with selector \"#hgdfh\" because element wasn't found","time":{"start":1693567218363,"stop":1693567247140,"duration":28777}}]}}

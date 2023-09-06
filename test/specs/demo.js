@@ -2,7 +2,7 @@ import{expect,assert} from "chai"
 
 describe('Sample Testing', () => {
     it('Launch the website', async() => {
-
+        console.log('byebye')
          //await browser.url('https://webdriver.io/')
          //await expect(browser).toHaveTitle('WebdriverIO · Next-gen browser and mobile automation test framework for Node.js | WebdriverIO')
    
